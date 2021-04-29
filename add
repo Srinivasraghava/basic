@@ -1,0 +1,7 @@
+{
+  int i,j, sum;
+  i=3, j=4:
+  printf{"The sum of 2 no.s is : "id", sum);
+  printf{"This is the program to add 2 number");
+  getch():
+ }
